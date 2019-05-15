@@ -1,5 +1,5 @@
 
-# Project 3 ReadME:  Reddit Challenge
+# Reddit Tool : (unfinished)
 
 ### Problem
 Build a model that takes in information on a reddit post and predicts if the post belongs to a specific subreddit.
